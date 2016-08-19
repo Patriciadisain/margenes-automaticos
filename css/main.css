@@ -1,0 +1,15 @@
+#izq	{
+
+	border: 18px solid yellow;
+	width: 200px;
+	padding: 25px;
+	text-align: center;
+}
+
+#Der	{
+
+	border: 18px solid yellow;
+	width: 200px;
+	padding: 25px;
+	margin-left: 500px;
+}
